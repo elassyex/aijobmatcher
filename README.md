@@ -1,6 +1,6 @@
 # Job Match Analyzer (AI-Powered)
 
-This is a **Django-based web application** that analyzes a candidate's skills and experience against a given job role using an AI model (e.g., Google Gemini API).  
+This is a **Django-based web application** that analyzes a candidate's skills and experience against a given job role using an AI model (Google Gemini API).  
 It returns a **match percentage**, **matching skills**, **missing skills**, and **recommendations** to help candidates understand how well they fit the role.
 
 ---
@@ -134,5 +134,5 @@ Feel free to modify and distribute.
 
 ## **Author**
 **Mohamed Elassy**  
-- GitHub: [@your-username](https://github.com/your-username)  
-- Email: your-email@example.com
+- GitHub: [@elassyex](https://github.com/elassyex)  
+- Email: mohamedelassy@mail.ru
